@@ -18,5 +18,18 @@
 | GCNII | [Simple and Deep Graph Convolutional Networks](https://arxiv.org/abs/2007.02133) | Ming Chen et al.| 2020
 | GATv2 | [How Attentive are Graph Attention Networks?](https://arxiv.org/abs/2105.14491) | Shaked Brody et al.| 2022
 
+## Libraries
 
+* Creation, manipulation and visualization of complex networks:
+    * [graph-tool](https://graph-tool.skewed.de/)
+    * [NetworKit](https://networkit.github.io/)
+    * [NetworkX](https://networkx.org/)
+    * [pyvis](https://pyvis.readthedocs.io/en/latest/)
+
+* Writing and training Graph Neural Networks:
+    * [Deep Graph Library](https://www.dgl.ai/dgl_docs/)
+    * [Graph Nets Library](https://github.com/google-deepmind/graph_nets)
+    * [PyTorch Geometric](https://pytorch-geometric.readthedocs.io)
+    * [PyTorch GNN](https://github.com/microsoft/ptgnn)
+    * [Spektral](https://graphneural.network/)
 
