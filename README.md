@@ -1,5 +1,10 @@
 # Graph Neural Networks Resources  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+Collection of resources for Graph Neural Network (GNN) research.
+
+#### Copyright advice
+Links to resources shared in this repository are owned by third parties and protected by their respective copyrights.
+
 ## Contents
 
 - [Papers](#papers)
